@@ -11,5 +11,5 @@ title: Michael is a trap
 hahaha
 
 ```java
-System.out.println("hi bitchj")
+System.out.println("hello World")
 ```
